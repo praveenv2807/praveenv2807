@@ -31,10 +31,9 @@ A passionate **Full-Stack Software Engineer** focused on building clean, high-pe
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenv2807&show_icons=true&theme=dark&hide_border=true" alt="Praveen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenv2807&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenv2807&show_icons=true&theme=dark&hide_border=true" alt="Praveen's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenv2807&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
-
 ---
 
 ### 📬 Connect with Me
