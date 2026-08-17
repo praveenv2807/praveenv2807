@@ -22,7 +22,7 @@ A passionate **Full-Stack Software Engineer** focused on building clean, high-pe
 
 ### 🚀 Key Projects
 
-* **[Praveen Personalized Portfolio](https://github.com/praveenv2807/Praveen-personalized-Portfolio)** — Interactive comic-themed portfolio built with React, Vite, and Smooth Scroll.
+
 * **[NATPAC-Travel](https://github.com/praveenv2807/NATPAC-Travel)** — Mobile app tracking and travel information platform built with TypeScript.
 * **[deptverse](https://github.com/praveenv2807/deptverse)** — Full-stack web application built using modern JavaScript patterns.
 
