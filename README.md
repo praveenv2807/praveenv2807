@@ -28,15 +28,23 @@ A passionate **Full-Stack Software Engineer** focused on building clean, high-pe
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenv2807&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenv2807&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/praveenv2807">
+    <img src="https://img.shields.io/badge/Contributions-126%20in%20last%20year-2ea44f?style=for-the-badge&logo=github" alt="GitHub Contributions" />
+  </a>
+  <a href="https://github.com/praveenv2807">
+    <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=for-the-badge&logo=github" alt="Public Repos" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenv2807&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+### 🛠️ Core Technologies
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,vite,nodejs,express,git,github,vscode" alt="My Skills" />
+  </a>
 </p>
 ---
 
