@@ -28,11 +28,15 @@ A passionate **Full-Stack Software Engineer** focused on building clean, high-pe
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenv2807&theme=dark" alt="Praveen's GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenv2807&theme=zenburn" alt="GitHub Profile Details" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenv2807&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenv2807&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenv2807&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 ---
 
