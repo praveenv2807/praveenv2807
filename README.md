@@ -1,4 +1,4 @@
-# Hi there, I'm PRAVEEN👋
+# Hi there, I'm PRAVEEN VELUSAMY👋
 
 A passionate **Full-Stack Software Engineer** focused on building clean, high-performance web applications and mobile solutions.
 
