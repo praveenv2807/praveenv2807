@@ -51,3 +51,5 @@ A passionate **Full-Stack Software Engineer** focused on building clean, high-pe
 
 * **Email:** [praveenpraveen2807@gmail.com](mailto:praveenpraveen2807@gmail.com)
 * **GitHub:** [@praveenv2807](https://github.com/praveenv2807)
+* **X:** [@praveenv2807](https://x.com/praveenv2807)
+
